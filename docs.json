@@ -24,7 +24,11 @@
         {
           "anchor": "Home",
           "icon": "house",
-          "href": "/"
+          "href": "https://socialmatix.mintlify.app/",
+          "color": {
+            "light": "#5D61dc",
+            "dark": "#5D61dc"
+          }
         },
         {
           "anchor": "Changelog",
