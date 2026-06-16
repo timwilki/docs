@@ -71,5 +71,12 @@
       "x": "https://x.com/yourcompany",
       "linkedin": "https://linkedin.com/company/yourcompany"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/platform/quickstart",
+      "permanent": true
+    }
+  ]
 }
